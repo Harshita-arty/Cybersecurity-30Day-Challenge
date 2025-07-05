@@ -1,0 +1,12 @@
+# Project: Python Port Scanner
+
+## Description:
+A basic port scanner using Python's `socket` module to find open ports on a given IP address.
+
+## Features:
+- Fast scanning with timeout
+- User input for target IP and port range
+
+## How to Run:
+```bash
+python port_scanner.py
